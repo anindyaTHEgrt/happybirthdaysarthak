@@ -39,12 +39,12 @@ export const ACHIEVEMENTS = [
     color: "#E9C55B"
   },
   {
-    id: "pop-culture",
-    title: "Pop Culture & Gaming Pro",
-    description: "Explored the secret pop culture references and gaming lounge.",
-    icon: "gamepad",
-    category: "Arcade",
-    color: "#6AB873"
+    id: "love-maxed",
+    title: "Love Meter: MAXED OUT",
+    description: "Filled the Hug & Kiss Meter to 100% — the most loved person alive!",
+    icon: "heart",
+    category: "Love",
+    color: "#E63946"
   },
   {
     id: "heart-world",

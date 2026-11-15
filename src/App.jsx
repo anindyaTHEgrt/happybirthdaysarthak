@@ -11,7 +11,7 @@ import WelcomeWorld from './scenes/WelcomeWorld';
 import FerrariGrandPrix from './scenes/FerrariGrandPrix';
 import MinecraftWorld from './scenes/MinecraftWorld';
 import RewardShop from './scenes/RewardShop';
-import EasterEggArcade from './scenes/EasterEggArcade';
+import HugMeter from './scenes/HugMeter';
 import BirthdayLetter from './scenes/BirthdayLetter';
 import BirthdayFinale from './scenes/BirthdayFinale';
 
@@ -30,8 +30,8 @@ export default function App() {
         return <MinecraftWorld />;
       case 'shop':
         return <RewardShop />;
-      case 'arcade':
-        return <EasterEggArcade />;
+      case 'hug-meter':
+        return <HugMeter />;
       case 'letter':
         return <BirthdayLetter />;
       case 'cake':

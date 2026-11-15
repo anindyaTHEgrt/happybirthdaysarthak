@@ -48,15 +48,15 @@ export const SCENES = [
     title: "Reward Shop",
     shortTitle: "Birthday Bazaar",
     isOptional: false,
-    nextScene: "arcade",
+    nextScene: "hug-meter",
     prevScene: "minecraft",
   },
   {
-    id: "arcade",
+    id: "hug-meter",
     index: 5,
-    title: "Easter Egg Arcade",
-    shortTitle: "Gaming Lounge",
-    isOptional: true, // Easter egg arcade is optional
+    title: "Hug & Kiss Meter",
+    shortTitle: "Love Meter",
+    isOptional: false,
     nextScene: "letter",
     prevScene: "shop",
   },
@@ -67,7 +67,7 @@ export const SCENES = [
     shortTitle: "Special Letter",
     isOptional: false,
     nextScene: "cake",
-    prevScene: "shop", // Can also return to shop or arcade
+    prevScene: "hug-meter",
   },
   {
     id: "cake",

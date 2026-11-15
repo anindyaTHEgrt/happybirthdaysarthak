@@ -24,8 +24,10 @@
 5. **Birthday Reward Shop (Bazaar):**
    - Pixel-art trading stall with 6 collectible real-life passes (VIP Date Night, Master Baker, Uninterrupted Gaming, Sweet Craving, Infinite Hugs, Golden Wildcard).
    - "Claim Reward" interaction adds tickets into a persistent inventory.
-6. **Pop Culture & Gaming Lounge (Arcade):**
-   - Interactive references for *The Office*, *Breaking Bad*, *Manifest*, *Valorant*, and *Fortnite*.
+6. **Hug & Kiss Meter:**
+   - Tap-to-hug mechanic with real-time love meter progression.
+   - Dynamic couple reactions (affectionate dialogues, floating hearts/kisses, loving milestones at 20%, 40%, 60%, 80%, and 100%).
+   - Unlocks sweet kissing animation and secret "Love Meter: MAXED OUT" achievement.
 7. **Heartfelt Birthday Letter:**
    - Sealed envelope on a cozy wooden desk under a starry night window.
    - Breaking the seal unfolds a personal, readable parchment letter with custom sign-off.

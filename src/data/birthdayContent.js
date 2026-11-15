@@ -23,7 +23,7 @@ export const birthdayContent = {
   // ==================================================
   // EDIT HERE: GIRLFRIEND / SENDER NAME & SIGNATURE
   // ==================================================
-  senderName: "Your Girlfriend ❤️", // EDIT HERE: Replace with your name or nickname
+  senderName: "Koibito❤️", // EDIT HERE: Replace with your name or nickname
 
   // ==================================================
   // EDIT HERE: SCREEN 0 — TITLE / GAME BOOT SCREEN
@@ -40,8 +40,8 @@ export const birthdayContent = {
   welcomeHeading: "Welcome, Sarthak!",
   welcomeDialogue: [
     "You have unlocked a brand-new adventure: Level 25!",
-    "Your mission is simple: enjoy your special day, collect racing treasures, and explore our world together.",
-    "Someone very special has built this whole universe just for you. Ready to race?"
+    "Your mission is simple: enjoy your special day, collect racing treasures, and explore this world together.",
+    " This whole universe is made for you to Explore and Engage. Ready to race?"
   ],
   welcomeSignText: "Quest Log: Head to the Ferrari Grand Prix Circuit to claim your first trophy!",
 
@@ -59,7 +59,7 @@ export const birthdayContent = {
   // ==================================================
   minecraftWorldTitle: "Our Cozy Realm",
   minecraftPrompt: "Click the main treasure chest to reveal our photo memories, or read the garden signs!",
-  
+
   // EDIT HERE: Photos of the two of you!
   // To add your real photos, put them in public/assets/photos/
   // and update the image paths below.
