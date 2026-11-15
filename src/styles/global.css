@@ -1,0 +1,28 @@
+@import './pixel-art.css';
+@import './animations.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  background-color: #191919;
+  font-family: 'Inter', system-ui, sans-serif;
+  color: #F5F1E8;
+  overflow-x: hidden;
+}
+
+/* Ensure focus states are clearly visible for keyboard navigation */
+button:focus-visible,
+a:focus-visible,
+input:focus-visible {
+  outline: 3px solid #E9C55B;
+  outline-offset: 3px;
+}

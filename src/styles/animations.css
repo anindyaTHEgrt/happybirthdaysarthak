@@ -1,0 +1,122 @@
+/* Animations for Pixel Art and Transitions */
+
+@keyframes floatBob {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-8px);
+  }
+}
+
+@keyframes flagWave {
+  0%, 100% {
+    transform: skewY(0deg);
+  }
+  50% {
+    transform: skewY(4deg);
+  }
+}
+
+@keyframes candleFlicker {
+  0% {
+    transform: scale(1) translate(0, 0);
+    opacity: 0.95;
+    filter: drop-shadow(0 0 6px #FFA500);
+  }
+  25% {
+    transform: scale(1.08, 0.95) translate(-1px, 0);
+    opacity: 1;
+    filter: drop-shadow(0 0 10px #FF4500);
+  }
+  50% {
+    transform: scale(0.95, 1.05) translate(1px, -1px);
+    opacity: 0.9;
+    filter: drop-shadow(0 0 8px #FFA500);
+  }
+  75% {
+    transform: scale(1.05, 0.98) translate(0, 1px);
+    opacity: 1;
+    filter: drop-shadow(0 0 12px #FFD700);
+  }
+  100% {
+    transform: scale(1) translate(0, 0);
+    opacity: 0.95;
+    filter: drop-shadow(0 0 6px #FFA500);
+  }
+}
+
+@keyframes smokeRise {
+  0% {
+    opacity: 0.8;
+    transform: translateY(0) scale(0.6);
+  }
+  50% {
+    opacity: 0.5;
+    transform: translateY(-20px) scale(1.2) translateX(4px);
+  }
+  100% {
+    opacity: 0;
+    transform: translateY(-40px) scale(1.8) translateX(-6px);
+  }
+}
+
+@keyframes chestGlow {
+  0%, 100% {
+    filter: drop-shadow(0 0 6px rgba(233, 197, 91, 0.6));
+  }
+  50% {
+    filter: drop-shadow(0 0 16px rgba(233, 197, 91, 1));
+  }
+}
+
+@keyframes carDriveAcross {
+  0% {
+    transform: translateX(-150%);
+  }
+  100% {
+    transform: translateX(150vw);
+  }
+}
+
+@keyframes typewriterBlink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
+
+.anim-float {
+  animation: floatBob 2s ease-in-out infinite;
+}
+
+.anim-flag {
+  animation: flagWave 1.5s ease-in-out infinite;
+}
+
+.anim-candle {
+  animation: candleFlicker 0.35s infinite;
+  transform-origin: bottom center;
+}
+
+.anim-smoke {
+  animation: smokeRise 1.2s forwards ease-out;
+}
+
+.anim-chest-glow {
+  animation: chestGlow 2s ease-in-out infinite;
+}
+
+.cursor-blink {
+  animation: typewriterBlink 0.8s infinite;
+}
+
+/* Reduced motion preference */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

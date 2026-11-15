@@ -1,0 +1,148 @@
+/* Pixel Art Utilities and Styles */
+
+/* Pixel border styling using box-shadows */
+.pixel-box {
+  background-color: #222222;
+  border: 4px solid #000000;
+  box-shadow: 
+    inset -4px -4px 0px 0px rgba(0, 0, 0, 0.6),
+    inset 4px 4px 0px 0px rgba(255, 255, 255, 0.15),
+    4px 4px 0px 0px rgba(0, 0, 0, 0.8);
+}
+
+.pixel-box-red {
+  background-color: #C91D28;
+  border: 4px solid #000000;
+  box-shadow: 
+    inset -4px -4px 0px 0px #700E15,
+    inset 4px 4px 0px 0px #F0535E,
+    4px 4px 0px 0px rgba(0, 0, 0, 0.8);
+}
+
+.pixel-box-gold {
+  background-color: #E9C55B;
+  border: 4px solid #000000;
+  box-shadow: 
+    inset -4px -4px 0px 0px #A38226,
+    inset 4px 4px 0px 0px #FFF0A8,
+    4px 4px 0px 0px rgba(0, 0, 0, 0.8);
+}
+
+.pixel-box-sandstone {
+  background-color: #E9D9B5;
+  border: 4px solid #000000;
+  box-shadow: 
+    inset -4px -4px 0px 0px #B4A076,
+    inset 4px 4px 0px 0px #FFF7E6,
+    4px 4px 0px 0px rgba(0, 0, 0, 0.8);
+}
+
+/* Pixel Buttons */
+.pixel-btn {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Press Start 2P', monospace;
+  font-size: 0.75rem;
+  line-height: 1.25rem;
+  padding: 0.65rem 1.25rem;
+  border: 3px solid #000000;
+  cursor: pointer;
+  user-select: none;
+  transition: transform 0.08s ease, filter 0.08s ease;
+  box-shadow: 
+    inset -3px -3px 0px 0px rgba(0, 0, 0, 0.4),
+    inset 3px 3px 0px 0px rgba(255, 255, 255, 0.3),
+    3px 3px 0px 0px #000000;
+}
+
+.pixel-btn:hover:not(:disabled) {
+  filter: brightness(1.1);
+  transform: translate(-1px, -1px);
+  box-shadow: 
+    inset -3px -3px 0px 0px rgba(0, 0, 0, 0.4),
+    inset 3px 3px 0px 0px rgba(255, 255, 255, 0.3),
+    4px 4px 0px 0px #000000;
+}
+
+.pixel-btn:active:not(:disabled) {
+  transform: translate(2px, 2px);
+  box-shadow: 
+    inset 3px 3px 0px 0px rgba(0, 0, 0, 0.6),
+    1px 1px 0px 0px #000000;
+}
+
+.pixel-btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+  filter: grayscale(0.8);
+}
+
+.pixel-btn-red {
+  background-color: #C91D28;
+  color: #FFFFFF;
+}
+
+.pixel-btn-gold {
+  background-color: #E9C55B;
+  color: #191919;
+}
+
+.pixel-btn-green {
+  background-color: #4D9B56;
+  color: #FFFFFF;
+}
+
+.pixel-btn-dark {
+  background-color: #2A2A2A;
+  color: #F5F1E8;
+}
+
+/* Pixelated rendering for sprites */
+.pixelated {
+  image-rendering: pixelated;
+  image-rendering: -moz-crisp-edges;
+  image-rendering: crisp-edges;
+}
+
+/* Photo frames that preserve real photo clarity */
+.photo-frame {
+  border: 6px solid #191919;
+  box-shadow: 
+    0 0 0 2px #E9C55B,
+    0 0 0 6px #191919,
+    6px 6px 0px 4px rgba(0, 0, 0, 0.6);
+  background-color: #191919;
+}
+
+/* Checkered racing pattern */
+.checkered-pattern {
+  background-image: 
+    linear-gradient(45deg, #000 25%, transparent 25%), 
+    linear-gradient(-45deg, #000 25%, transparent 25%), 
+    linear-gradient(45deg, transparent 75%, #000 75%), 
+    linear-gradient(-45deg, transparent 75%, #000 75%);
+  background-size: 20px 20px;
+  background-position: 0 0, 0 10px, 10px -10px, -10px 0px;
+}
+
+/* Pixel scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #191919;
+  border: 2px solid #000000;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #C91D28;
+  border: 2px solid #000000;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #E9C55B;
+}

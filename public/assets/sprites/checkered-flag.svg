@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="100%" height="100%" shape-rendering="crispEdges">
+  <!-- Checkered Flag Sprite -->
+  <!-- Flag pole -->
+  <rect x="8" y="6" width="4" height="52" fill="#888888"/>
+  <circle cx="10" cy="6" r="3" fill="#E9C55B"/>
+  
+  <!-- Flag cloth (Checkered grid) -->
+  <g transform="translate(12, 10)">
+    <!-- 4x3 checker blocks -->
+    <rect x="0" y="0" width="10" height="9" fill="#000000"/>
+    <rect x="10" y="0" width="10" height="9" fill="#FFFFFF"/>
+    <rect x="20" y="0" width="10" height="9" fill="#000000"/>
+    <rect x="30" y="0" width="10" height="9" fill="#FFFFFF"/>
+
+    <rect x="0" y="9" width="10" height="9" fill="#FFFFFF"/>
+    <rect x="10" y="9" width="10" height="9" fill="#000000"/>
+    <rect x="20" y="9" width="10" height="9" fill="#FFFFFF"/>
+    <rect x="30" y="9" width="10" height="9" fill="#000000"/>
+
+    <rect x="0" y="18" width="10" height="9" fill="#000000"/>
+    <rect x="10" y="18" width="10" height="9" fill="#FFFFFF"/>
+    <rect x="20" y="18" width="10" height="9" fill="#000000"/>
+    <rect x="30" y="18" width="10" height="9" fill="#FFFFFF"/>
+  </g>
+</svg>

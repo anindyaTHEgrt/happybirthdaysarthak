@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="100%" height="100%" shape-rendering="crispEdges">
+  <!-- Opened Pixel Wooden Chest with Golden Glow Inside -->
+  <!-- Outer black outline -->
+  <rect x="6" y="24" width="52" height="34" fill="#140D07"/>
+
+  <!-- Angled Open Lid -->
+  <polygon points="6,24 16,4 58,4 48,24" fill="#8D5524"/>
+  <polygon points="8,22 17,7 55,7 46,22" fill="#B2743C"/>
+  <polygon points="6,24 16,4 20,4 10,24" fill="#3A3836"/>
+  <polygon points="44,24 54,4 58,4 48,24" fill="#3A3836"/>
+
+  <!-- Golden Light Burst from Inside -->
+  <rect x="14" y="22" width="36" height="6" fill="#FFF0A8"/>
+  <circle cx="32" cy="24" r="14" fill="#E9C55B" opacity="0.4"/>
+  <rect x="22" y="16" width="4" height="4" fill="#FFF8C4"/>
+  <rect x="38" y="14" width="4" height="4" fill="#FFF8C4"/>
+  <rect x="30" y="12" width="4" height="4" fill="#FFFFFF"/>
+
+  <!-- Inside Dark Depth -->
+  <rect x="10" y="26" width="44" height="6" fill="#38210E"/>
+
+  <!-- Bottom Box Section -->
+  <rect x="8" y="32" width="48" height="24" fill="#8D5524"/>
+  <rect x="10" y="34" width="44" height="4" fill="#B2743C"/>
+  <rect x="8" y="52" width="48" height="4" fill="#583416"/>
+
+  <!-- Corner Iron Reinforcements -->
+  <rect x="8" y="32" width="6" height="24" fill="#3A3836"/>
+  <rect x="50" y="32" width="6" height="24" fill="#3A3836"/>
+
+  <!-- Center Latch Base -->
+  <rect x="30" y="30" width="4" height="6" fill="#BDBDBD"/>
+</svg>
