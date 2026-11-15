@@ -66,42 +66,42 @@ export const birthdayContent = {
   memories: [
     {
       id: "memory-01",
-      image: "assets/photos/memory-01.svg",
+      image: "assets/photos/memory-01.jpeg",
       title: "Where It All Began",
       caption: "From our very first laughs to building entire worlds together. Every moment with you feels like an adventure.",
       alt: "Photo memory: Our first cozy hangout"
     },
     {
       id: "memory-02",
-      image: "assets/photos/memory-02.svg",
+      image: "assets/photos/memory-02.jpeg",
       title: "Minecraft Late Nights",
       caption: "Mining diamonds until 3 AM, defending the cottage from creepers, and making a virtual home with you.",
       alt: "Photo memory: Gaming late night together"
     },
     {
       id: "memory-03",
-      image: "assets/photos/memory-03.svg",
+      image: "assets/photos/memory-03.jpeg",
       title: "Baking & Sweet Treats",
       caption: "Master Baker Sarthak in his element! The sweetest treats are always the ones we make together.",
       alt: "Photo memory: Baking dessert together"
     },
     {
       id: "memory-04",
-      image: "assets/photos/memory-04.svg",
+      image: "assets/photos/memory-04.jpeg",
       title: "F1 Sundays & Ferrari Screams",
       caption: "Sunday race days shouting at pit stops and celebrating every overtake. You will always be my favourite driver.",
       alt: "Photo memory: Watching F1 race together"
     },
     {
       id: "memory-05",
-      image: "assets/photos/memory-05.svg",
+      image: "assets/photos/memory-05.jpeg",
       title: "Everyday Magic",
       caption: "Even the simplest grocery runs, random car drives, and cozy coffee moments feel magical with you.",
       alt: "Photo memory: Sweet everyday smile"
     },
     {
       id: "memory-06",
-      image: "assets/photos/memory-06.svg",
+      image: "assets/photos/memory-06.jpeg",
       title: "Our Victory Hugs",
       caption: "No matter how hectic the world gets, hugging you is my favourite place to be.",
       alt: "Photo memory: Warm embrace"

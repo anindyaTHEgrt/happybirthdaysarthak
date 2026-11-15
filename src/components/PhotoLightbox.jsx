@@ -45,7 +45,7 @@ export default function PhotoLightbox({ photos, currentIndex, onClose, onPrev, o
         {/* Photo Container */}
         <div className="photo-frame max-h-[70vh] flex flex-col items-center justify-center overflow-hidden bg-black">
           <img
-            src={currentPhoto.image}
+            src={currentPhoto.image?.startsWith('http') || currentPhoto.image?.startsWith('data:') ? currentPhoto.image : `${import.meta.env.BASE_URL}${currentPhoto.image?.replace(/^\//, '')}`}
             alt={currentPhoto.alt || currentPhoto.title || 'Memory photo'}
             className="max-h-[60vh] max-w-full w-auto object-contain"
           />

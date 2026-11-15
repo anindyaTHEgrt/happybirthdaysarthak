@@ -63,7 +63,7 @@ export default function PhotoGallery({ photos }) {
             {/* Photo Thumbnail */}
             <div className="relative aspect-[4/3] w-full overflow-hidden bg-black border-2 border-black photo-frame">
               <img
-                src={photo.image}
+                src={photo.image?.startsWith('http') || photo.image?.startsWith('data:') ? photo.image : `${import.meta.env.BASE_URL}${photo.image?.replace(/^\//, '')}`}
                 alt={photo.alt || photo.title || 'Memory photo'}
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
                 loading="lazy"
