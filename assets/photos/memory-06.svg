@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="100%" height="100%" shape-rendering="crispEdges">
+  <!-- Victory Hugs & Grand Trophy Scene -->
+  <rect width="400" height="300" fill="#1A1A24"/>
+  
+  <!-- Celebratory Confetti in Background -->
+  <rect x="50" y="40" width="8" height="8" fill="#E9C55B"/>
+  <rect x="90" y="80" width="6" height="10" fill="#C91D28"/>
+  <rect x="140" y="30" width="10" height="6" fill="#4D9B56"/>
+  <rect x="230" y="50" width="8" height="8" fill="#E9C55B"/>
+  <rect x="290" y="70" width="6" height="12" fill="#E63946"/>
+  <rect x="340" y="35" width="10" height="6" fill="#55FFFF"/>
+  <rect x="80" y="130" width="8" height="6" fill="#FFEAA7"/>
+  <rect x="320" y="120" width="6" height="10" fill="#FF7675"/>
+
+  <!-- Golden Grand Prix Trophy in Center -->
+  <!-- Trophy Cup -->
+  <rect x="165" y="80" width="70" height="60" fill="#E9C55B"/>
+  <rect x="175" y="85" width="50" height="50" fill="#FFF0A8"/>
+  <rect x="185" y="95" width="30" height="30" fill="#E9C55B"/>
+  <!-- Trophy Handles -->
+  <path d="M150 85 h15 v35 h-15 v-10 h5 v-15 h-5 z" fill="#E9C55B"/>
+  <path d="M235 85 h15 v35 h-15 v-10 h5 v-15 h-5 z" fill="#E9C55B"/>
+  <!-- Trophy Stem & Base -->
+  <rect x="190" y="140" width="20" height="30" fill="#C8A33A"/>
+  <rect x="170" y="170" width="60" height="15" fill="#E9C55B"/>
+  <rect x="160" y="185" width="80" height="25" fill="#111111"/>
+  <!-- Inscription on Trophy Base -->
+  <rect x="175" y="190" width="50" height="15" fill="#C8A33A"/>
+  <text x="200" y="201" fill="#111111" font-family="monospace" font-size="9" font-weight="bold" text-anchor="middle">#1 IN MY HEART</text>
+
+  <!-- Big Red Pixel Heart behind Trophy -->
+  <path d="M185 45 h10 v8 h-10 z M175 37 h10 v8 h-10 z M165 45 h10 v16 h-10 z M175 61 h10 v8 h-10 z M185 69 h10 v8 h-10 z M195 77 h10 v8 h-10 z M205 69 h10 v8 h-10 z M215 61 h10 v8 h-10 z M225 45 h10 v16 h-10 z M215 37 h10 v8 h-10 z M205 45 h10 v8 h-10 z" fill="#C91D28" opacity="0.85"/>
+
+  <!-- Podium Pedestal -->
+  <rect x="100" y="210" width="200" height="90" fill="#254A35"/>
+  <rect x="100" y="210" width="200" height="10" fill="#4D9B56"/>
+  <text x="200" y="260" fill="#FFFFFF" font-family="'Press Start 2P', monospace" font-size="16" font-weight="bold" text-anchor="middle">P1</text>
+
+  <!-- Decorative text tag at bottom -->
+  <rect x="10" y="10" width="130" height="24" fill="rgba(0,0,0,0.6)" rx="4"/>
+  <text x="75" y="26" fill="#E9D9B5" font-family="monospace" font-size="11" font-weight="bold" text-anchor="middle">PHOTO #6 [PREVIEW]</text>
+</svg>
