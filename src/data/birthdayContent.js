@@ -67,44 +67,38 @@ export const birthdayContent = {
     {
       id: "memory-01",
       image: "assets/photos/memory-01.jpeg",
-      title: "Where It All Began",
-      caption: "From our very first laughs to building entire worlds together. Every moment with you feels like an adventure.",
-      alt: "Photo memory: Our first cozy hangout"
+      title: "OUR 1ST TRIP TOGETHER",
+      caption: "Still laughing my ass off with you just have added onto the list of inside jokes and honed our bad grammer spotting skills palmero=palermo to our scrabble skills.",
     },
     {
       id: "memory-02",
       image: "assets/photos/memory-02.jpeg",
-      title: "Minecraft Late Nights",
-      caption: "Mining diamonds until 3 AM, defending the cottage from creepers, and making a virtual home with you.",
-      alt: "Photo memory: Gaming late night together"
-    },
-    {
-      id: "memory-03",
-      image: "assets/photos/memory-03.jpeg",
-      title: "Baking & Sweet Treats",
-      caption: "Master Baker Sarthak in his element! The sweetest treats are always the ones we make together.",
-      alt: "Photo memory: Baking dessert together"
-    },
-    {
-      id: "memory-04",
-      image: "assets/photos/memory-04.jpeg",
-      title: "F1 Sundays & Ferrari Screams",
-      caption: "Sunday race days shouting at pit stops and celebrating every overtake. You will always be my favourite driver.",
-      alt: "Photo memory: Watching F1 race together"
+      title: "Esplanade runs",
+      caption: "From nizam’s kebabs, random street shopping of Amul macho(just to embarrass you *heheh*). To being introduced by you to Nahoum’s bakery ( cant get over walnut marshmellows and cashew rings. These trips have been one of the best memories of college +falooda on top",
     },
     {
       id: "memory-05",
       image: "assets/photos/memory-05.jpeg",
-      title: "Everyday Magic",
-      caption: "Even the simplest grocery runs, random car drives, and cozy coffee moments feel magical with you.",
-      alt: "Photo memory: Sweet everyday smile"
+      title: "Saraswati pujo x matching fits",
+      caption: "From learning to carry saree in Bengal to matching with you on each pujo and visiting all hostels while having heel breakdowns has always been such a core memory. Not to mention random photo shoots in your hostel room (only time of the year when I am allowed)",
+    },
+    {
+      id: "memory-04",
+      image: "assets/photos/memory-04.jpeg",
+      title: "From CRs to Rebecca publications heads",
+      caption: "We have shared the same college responsibilities, same same much now? Ironically, we don’t have many overlaps in our music, hobbies or watchlist choices but we always find way back to each other in many ways whether it being 2 player games or design choices (really important as perfectionists who get a stroke over alignment issues)",
+    },
+    {
+      id: "memory-03",
+      image: "assets/photos/memory-03.jpeg",
+      title: "LDR – destination 1",
+      caption: "All my trips to Bhopal on paper have been for “research purposes” but along the lines even I started liking the city of lakes as much as I loved meeting you there .Discovered the Best Nescafe spot by the lake (10/10 date spot) + café amado with its food and how can I forget the wildass auto rides.",
     },
     {
       id: "memory-06",
       image: "assets/photos/memory-06.jpeg",
-      title: "Our Victory Hugs",
-      caption: "No matter how hectic the world gets, hugging you is my favourite place to be.",
-      alt: "Photo memory: Warm embrace"
+      title: "LDR – destination 2",
+      caption: "Bangalore, I hope will be our last long distance destination cause I am at my wits end. In these 2 ½ yrs of long distance we have managed to stick to our commitment of meeting at least once in 3 months (+ became sushi ravagers) & I hope this fuckass MBA can stop interrupting my schedule with you.I sometimes think back when we used to sit ours on each others archi projects …it was tense but fun at the same time.",
     }
   ],
 
@@ -244,15 +238,15 @@ export const birthdayContent = {
   letter: {
     heading: "A Letter For My Favourite Person",
     prompt: "You've collected trophies, unlocked rewards and discovered memories. But there's one final thing waiting for you.",
-    salutation: "Dear Sarthak,",
+    salutation: "Dear Oppressed Obsessed Sarthak,",
     paragraphs: [
-      "Happy 25th Birthday, my love! Looking back on all the moments we've shared, from late-night gaming sessions to quiet car drives and laughter that made my stomach hurt, I am endlessly grateful that you are in my life.",
-      "You bring so much joy, passion, and kindness into everything you do — whether it's perfecting a recipe, passionately explaining race strategies on Sunday, or just being the steady, incredible human being that you are.",
-      "As you step into Level 25, I hope this year brings you all the wins you deserve, every dream you're working toward, and countless new adventures for us to experience together.",
-      "No matter where the track takes us, remember that you are my favourite person, my best friend, and my champion."
+      "Its that timeeee of the year again where I try to condense my love for you into a tiny letter. So this is gonna be my 5th letter to you since we started dating .",
+      "You were 20 when we started dating and very much unemployed and master-less( sorry for the bad pun) .Now seeing you bag your 1st job has been truly a wonderful journey. I hope I am there in future to be part of all your wins just like these. ",
+      "You are my true soulmate in every sense I can think of. Just spending time with you brings be so much joy. I hope we keep learning and unravelling new things about each other in all the years to come and never stop dating like two silly fools walking on this earth by coincidence. My love for you has seen seasons and has only grown fonder .The warmth and safety you bring always makes me soft inside.",
+      "My guardian angel and twin flame happy 25th and I wish you all the luck and abundance this world has to offer. May you achieve all you wish for and more. Hope soon we can be together in person and complete “our dates saved folder on insta”  and cuddle like hibernating bears."
     ],
-    signOff: "With all my love,",
-    signature: "Your Girlfriend" // EDIT HERE: Your signature/name
+    signOff: "Yours Lovingly,",
+    signature: "Koibito" // EDIT HERE: Your signature/name
   },
 
   // ==================================================

@@ -231,34 +231,34 @@ function PixelSarthak() {
         <rect x="15" y="24" width="6" height="4" fill="#7A4E2E" />
         {/* Smile */}
         <rect x="11" y="29" width="14" height="2" fill="#8B1A1A" />
-        <rect x="9"  y="27" width="2" height="2" fill="#8B1A1A" />
+        <rect x="9" y="27" width="2" height="2" fill="#8B1A1A" />
         <rect x="25" y="27" width="2" height="2" fill="#8B1A1A" />
         {/* Ears */}
-        <rect x="0"  y="18" width="4" height="10" fill="#8B5E3C" />
+        <rect x="0" y="18" width="4" height="10" fill="#8B5E3C" />
         <rect x="32" y="18" width="4" height="10" fill="#8B5E3C" />
         {/* Neck */}
         <rect x="12" y="34" width="12" height="8" fill="#8B5E3C" />
         {/* Body: Ferrari red shirt */}
-        <rect x="2"  y="42" width="32" height="22" fill="#C91D28" />
-        <rect x="2"  y="42" width="6"  height="22" fill="#9B131C" />
-        <rect x="28" y="42" width="6"  height="22" fill="#9B131C" />
+        <rect x="2" y="42" width="32" height="22" fill="#C91D28" />
+        <rect x="2" y="42" width="6" height="22" fill="#9B131C" />
+        <rect x="28" y="42" width="6" height="22" fill="#9B131C" />
         {/* Collar */}
-        <rect x="12" y="40" width="5"  height="6" fill="#E8E8E8" />
-        <rect x="19" y="40" width="5"  height="6" fill="#E8E8E8" />
+        <rect x="12" y="40" width="5" height="6" fill="#E8E8E8" />
+        <rect x="19" y="40" width="5" height="6" fill="#E8E8E8" />
         {/* Arms */}
-        <rect x="-4" y="43" width="8"  height="20" fill="#C91D28" />
-        <rect x="32" y="43" width="8"  height="20" fill="#C91D28" />
+        <rect x="-4" y="43" width="8" height="20" fill="#C91D28" />
+        <rect x="32" y="43" width="8" height="20" fill="#C91D28" />
         {/* Hands */}
-        <rect x="-4" y="62" width="8"  height="8" fill="#8B5E3C" />
-        <rect x="32" y="62" width="8"  height="8" fill="#8B5E3C" />
+        <rect x="-4" y="62" width="8" height="8" fill="#8B5E3C" />
+        <rect x="32" y="62" width="8" height="8" fill="#8B5E3C" />
         {/* Legs */}
-        <rect x="4"  y="64" width="13" height="16" fill="#1A252C" />
+        <rect x="4" y="64" width="13" height="16" fill="#1A252C" />
         <rect x="19" y="64" width="13" height="16" fill="#1A252C" />
         {/* Crease */}
-        <rect x="10" y="64" width="2"  height="16" fill="#141E24" />
-        <rect x="24" y="64" width="2"  height="16" fill="#141E24" />
+        <rect x="10" y="64" width="2" height="16" fill="#141E24" />
+        <rect x="24" y="64" width="2" height="16" fill="#141E24" />
         {/* Shoes */}
-        <rect x="2"  y="78" width="15" height="4" fill="#111" />
+        <rect x="2" y="78" width="15" height="4" fill="#111" />
         <rect x="19" y="78" width="15" height="4" fill="#111" />
       </svg>
       <span className="font-pixel text-[8px] bg-obsidian text-gold px-1 mt-0.5 border border-gold">SARTHAK</span>
@@ -274,72 +274,72 @@ function PixelGirlfriend() {
         {/* Long hair top */}
         <rect x="1" y="0" width="34" height="14" fill="#2C1507" />
         {/* Hair sides (flowing) */}
-        <rect x="0"  y="8"  width="6"  height="40" fill="#2C1507" />
-        <rect x="30" y="8"  width="6"  height="36" fill="#2C1507" />
+        <rect x="0" y="8" width="6" height="40" fill="#2C1507" />
+        <rect x="30" y="8" width="6" height="36" fill="#2C1507" />
         {/* Hair highlight */}
         <rect x="12" y="2" width="8" height="4" fill="#4A2810" />
         {/* Head (fair skin) */}
-        <rect x="5"  y="8"  width="26" height="26" fill="#F5CDA9" />
-        <rect x="7"  y="10" width="22" height="6"  fill="#FDDCC0" />
+        <rect x="5" y="8" width="26" height="26" fill="#F5CDA9" />
+        <rect x="7" y="10" width="22" height="6" fill="#FDDCC0" />
         {/* Eyes */}
-        <rect x="8"  y="18" width="8" height="6" fill="#fff" />
+        <rect x="8" y="18" width="8" height="6" fill="#fff" />
         <rect x="20" y="18" width="8" height="6" fill="#fff" />
         <rect x="10" y="19" width="4" height="4" fill="#3B1A0A" />
         <rect x="22" y="19" width="4" height="4" fill="#3B1A0A" />
         <rect x="11" y="19" width="1" height="1" fill="#fff" />
         <rect x="23" y="19" width="1" height="1" fill="#fff" />
         {/* Eyelashes */}
-        <rect x="8"  y="16" width="8" height="2" fill="#1A0A00" />
+        <rect x="8" y="16" width="8" height="2" fill="#1A0A00" />
         <rect x="20" y="16" width="8" height="2" fill="#1A0A00" />
         {/* Eyebrows */}
-        <rect x="9"  y="14" width="6" height="2" fill="#2C1507" />
+        <rect x="9" y="14" width="6" height="2" fill="#2C1507" />
         <rect x="21" y="14" width="6" height="2" fill="#2C1507" />
         {/* Nose */}
         <rect x="16" y="24" width="4" height="3" fill="#E8B090" />
         {/* Blush */}
-        <rect x="6"  y="26" width="6" height="4" fill="#F4A0A0" opacity="0.7" />
+        <rect x="6" y="26" width="6" height="4" fill="#F4A0A0" opacity="0.7" />
         <rect x="24" y="26" width="6" height="4" fill="#F4A0A0" opacity="0.7" />
         {/* Smile */}
         <rect x="12" y="30" width="12" height="2" fill="#D4654A" />
         <rect x="10" y="28" width="2" height="2" fill="#D4654A" />
         <rect x="24" y="28" width="2" height="2" fill="#D4654A" />
         {/* Ears */}
-        <rect x="0"  y="18" width="6" height="10" fill="#F5CDA9" />
+        <rect x="0" y="18" width="6" height="10" fill="#F5CDA9" />
         <rect x="30" y="18" width="6" height="10" fill="#F5CDA9" />
         {/* Gold earrings */}
-        <rect x="0"  y="24" width="4" height="4" fill="#E9C55B" />
+        <rect x="0" y="24" width="4" height="4" fill="#E9C55B" />
         <rect x="32" y="24" width="4" height="4" fill="#E9C55B" />
         {/* Neck */}
         <rect x="13" y="34" width="10" height="8" fill="#F5CDA9" />
         {/* Necklace */}
-        <rect x="9"  y="40" width="18" height="2" fill="#E9C55B" />
-        <rect x="15" y="42" width="6"  height="4" fill="#C8A33A" />
+        <rect x="9" y="40" width="18" height="2" fill="#E9C55B" />
+        <rect x="15" y="42" width="6" height="4" fill="#C8A33A" />
         {/* Body: emerald sweater */}
-        <rect x="3"  y="42" width="30" height="22" fill="#2E8B57" />
-        <rect x="3"  y="42" width="5"  height="22" fill="#245C3A" />
-        <rect x="28" y="42" width="5"  height="22" fill="#245C3A" />
+        <rect x="3" y="42" width="30" height="22" fill="#2E8B57" />
+        <rect x="3" y="42" width="5" height="22" fill="#245C3A" />
+        <rect x="28" y="42" width="5" height="22" fill="#245C3A" />
         {/* Ribbing */}
-        <rect x="3"  y="50" width="30" height="2" fill="#245C3A" />
-        <rect x="3"  y="56" width="30" height="2" fill="#245C3A" />
+        <rect x="3" y="50" width="30" height="2" fill="#245C3A" />
+        <rect x="3" y="56" width="30" height="2" fill="#245C3A" />
         {/* V-neck */}
         <rect x="14" y="40" width="4" height="6" fill="#245C3A" />
         <rect x="18" y="40" width="4" height="6" fill="#245C3A" />
         {/* Arms */}
-        <rect x="-2" y="43" width="7"  height="18" fill="#2E8B57" />
-        <rect x="31" y="43" width="7"  height="18" fill="#2E8B57" />
+        <rect x="-2" y="43" width="7" height="18" fill="#2E8B57" />
+        <rect x="31" y="43" width="7" height="18" fill="#2E8B57" />
         {/* Hands */}
-        <rect x="-2" y="60" width="7"  height="8" fill="#F5CDA9" />
-        <rect x="31" y="60" width="7"  height="8" fill="#F5CDA9" />
+        <rect x="-2" y="60" width="7" height="8" fill="#F5CDA9" />
+        <rect x="31" y="60" width="7" height="8" fill="#F5CDA9" />
         {/* Skirt */}
-        <rect x="5"  y="64" width="26" height="16" fill="#2B3A42" />
+        <rect x="5" y="64" width="26" height="16" fill="#2B3A42" />
         {/* Skirt pleats */}
-        <rect x="12" y="64" width="2"  height="16" fill="#1E2B30" />
-        <rect x="22" y="64" width="2"  height="16" fill="#1E2B30" />
+        <rect x="12" y="64" width="2" height="16" fill="#1E2B30" />
+        <rect x="22" y="64" width="2" height="16" fill="#1E2B30" />
         {/* Gold shoes */}
-        <rect x="4"  y="78" width="13" height="4" fill="#E9C55B" />
+        <rect x="4" y="78" width="13" height="4" fill="#E9C55B" />
         <rect x="19" y="78" width="13" height="4" fill="#E9C55B" />
       </svg>
-      <span className="font-pixel text-[8px] bg-obsidian text-ferrari-light px-1 mt-0.5 border border-ferrari">GIRLFRIEND</span>
+      <span className="font-pixel text-[8px] bg-obsidian text-ferrari-light px-1 mt-0.5 border border-ferrari">MANUBABES</span>
     </div>
   );
 }

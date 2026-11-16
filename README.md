@@ -2,7 +2,7 @@
 
 > A personalised 2D pixel-art interactive birthday adventure combining **Ferrari & Formula 1 racing** with a cozy **Minecraft world**, custom coupon rewards, pop culture Easter eggs, a personal birthday letter, and a grand fireworks cake finale!
 
-**Live URL (GitHub Pages):** [https://anindyaTHEgrt.github.io/manrajbfbirthdaysite/](https://anindyaTHEgrt.github.io/manrajbfbirthdaysite/)
+**Live URL (GitHub Pages):** [https://anindyaTHEgrt.github.io/happybirthdaysarthak/](https://anindyaTHEgrt.github.io/happybirthdaysarthak/)
 
 ---
 
